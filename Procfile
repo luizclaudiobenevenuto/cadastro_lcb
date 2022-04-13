@@ -1,1 +1,1 @@
-web: gunicorn Cadastro.wsgi --log-file -
+web: gunicorn cadastro.wsgi --log-file -
