@@ -96,10 +96,10 @@ DATABASES = {
 
     }
 }
+
 """
 
 # Usando PostgreSQL com heroku
-
 DATABASES = {
     'default': dj_database_url.config()
 }
